@@ -1,4 +1,4 @@
-## DataCamp Product Sales Analysis – Summary
+## Pens and Printers Product Sales Analysis – Summary
 
 **Key findings**
 
