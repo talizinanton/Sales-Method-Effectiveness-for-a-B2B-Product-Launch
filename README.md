@@ -1,5 +1,7 @@
 ## Pens and Printers Product Sales Analysis – Summary
 
+Dashboard in Tableau: https://public.tableau.com/app/profile/anton.talizin/viz/SalesMethodEffectivenessforaB2BProductLaunch/Dashboard1
+
 **Key findings**
 
 - The combined **Email → Call** approach delivered the **highest average revenue per customer** and the strongest positive week‑to‑week revenue trend, making it the most effective sales method. 
